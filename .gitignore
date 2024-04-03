@@ -1,3 +1,4 @@
 avg-calculator/src/server.jsx
 avg-calculator/package.json
 avg-calculator/.gitignore
+microService/package.json
